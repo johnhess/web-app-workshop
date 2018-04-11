@@ -4,7 +4,7 @@ You write Python code.  You visit websites.  You think to yourself "Making my co
 
 Until now.
 
-That's because right now, you're about to spend about an hour to turn a simple Python function into a website anyone can visit.  That website runs your function and shows the result to your visitors.  This is your first step to "The Social Network"-level fame.  You rejoice*.
+That's because right now, you're about to spend about an hour to turn a simple Python function into a website anyone can visit.  That website runs your function (with arguments chosen by the visitor) and shows the result, computed in real-time, to that visitor.  This is your first step to "The Social Network"-level fame.  You rejoice*.
 
 ## Before the talk
 
@@ -18,6 +18,10 @@ You will need a few accounts.  Those accounts will want you to confirm your emai
   * Verify your email!
   * Then, come back to the [the fibonacci repository](https://github.com/johnhess/fibonacci) and click fork again.  It should work this time. 
 3. Get an account on [heroku.com](https://heroku.com).
+
+### What kind of computer should I bring?  Do I need to install stuff?
+
+Any regular computer will work (windows/apple/linux).  We will do everything in the browser, so you don't need to install a thing :-)
 
 ## During the talk
 
